@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+client/dist/
+server/dist/
+server/build/
+client/build/
+
+# dotenv environment variables
+.env
+client/.env
+server/.env
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE Specific
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
