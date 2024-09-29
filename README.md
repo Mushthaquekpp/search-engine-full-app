@@ -10,7 +10,7 @@ This project is a search engine tool that fetches and ranks content from various
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/F8Vy4gV/Screenshot-2024-09-29-165810.png)
+![App Screenshot](https://i.ibb.co/bQxcGR0/Screenshot-2024-09-29-172916.png)
 
 ## Approach
 
